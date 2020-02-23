@@ -1,5 +1,5 @@
 ### vpn
 ```
-964973791@qq.com
+96xxxxxx@qq.com
 test!@xxxxxx
 ```
